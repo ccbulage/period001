@@ -2,6 +2,12 @@ package person.zd.base.sync015;
 
 import java.util.Random;
 
+/**
+ * @ClassName: Main
+ * @Description: Master-work 模式
+ * @author Gene
+ * @date 2017年5月2日 下午9:04:21
+ */
 public class Main {
 	
 	public static void main(String[] args) {
